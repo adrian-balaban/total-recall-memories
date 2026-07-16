@@ -1,0 +1,38 @@
+{
+  "architecture/total-recall-plugin-architecture-and-gotchas": {
+    "key": "architecture/total-recall-plugin-architecture-and-gotchas",
+    "title": "Total Recall Plugin — Architecture, Skills & Gotchas",
+    "tags": [
+      "total-recall",
+      "claude-code",
+      "mcp",
+      "plugin",
+      "architecture",
+      "organisational"
+    ],
+    "author": "adrianb",
+    "updated": "2026-05-30T00:00:00.000Z",
+    "created": "2026-05-30T00:00:00.000Z",
+    "importanceScore": "0.9",
+    "contentPreview": "## Executive Summary\n\nTotal Recall is a Claude Code MCP plugin providing persistent memory across sessions. It combines a TypeScript MCP server (~780 lines), 6 bash hook scripts, a Node.js org vault sync script, and 2 skills. Built from a spec OCR'd from handwritten notes (Tickets.org PDF). 7 correctness/security bugs were found and fixed in a post-build code review.\n\n## Plugin Location\n\n`/home/adrianb/total-recall/`\n\nRegistered as MCP server: `node ~/.nvm/versions/node/v24.15.0/bin/node /home/a"
+  },
+  "architecture/flink-cdc-poc-docker-compose-infrastructure": {
+    "key": "architecture/flink-cdc-poc-docker-compose-infrastructure",
+    "title": "Flink CDC POC — Docker Compose Infrastructure",
+    "tags": [
+      "flink",
+      "cdc",
+      "kafka",
+      "mysql",
+      "docker",
+      "poc",
+      "architecture",
+      "organisational"
+    ],
+    "author": "adrianb",
+    "updated": "2026-05-30T00:00:00.000Z",
+    "created": "2026-05-30T00:00:00.000Z",
+    "importanceScore": "0.8",
+    "contentPreview": "## Executive Summary\n\nDocker Compose stack for the 5-variant Flink MySQL CDC POC. Provides MySQL 8.0 with binlog enabled, Kafka in KRaft mode (no ZooKeeper), a Flink standalone cluster (JM + TM), and Kafka UI. All variants share this infra; server-ID ranges 5500–6099 are partitioned per variant to avoid MySQL replica ID collisions on restart.\n\n## Services\n\n| Service | Image | Port | Notes |\n|---|---|---|---|\n| `poc-mysql` | mysql:8.0 | 3306 | binlog ROW format, FULL image, server-id=1 |\n| `poc-k"
+  }
+}
