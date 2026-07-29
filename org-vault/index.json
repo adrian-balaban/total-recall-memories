@@ -1378,6 +1378,28 @@
       "created": "2026-07-29T21:59:14.303Z",
       "importanceScore": 0.7,
       "contentPreview": "## Executive Summary\n\nCompendiu de **soft-skills necesare unui arhitect software**, sintetizat din 6 cărți de referință (vezi Referințe), organizat pe 7 categorii. DE CE contează: tranziția developer→arhitect mută accentul de la skill-ul tehnic personal la oameni — comunicare, leadership, negociere și influență devin decisive pentru succesul proiectului (majoritatea problemelor de proiect NU sunt tehnice). Sursă: `/home/adrianb/_/CartiSiEbook/IT/architecture/soft-skills-arhitect.org`. Există și "
+    },
+    "knowledge/soft-skills-pentru-arhitectul-software-exerci-ii-practice-per-skill-comunicare-l": {
+      "key": "knowledge/soft-skills-pentru-arhitectul-software-exerci-ii-practice-per-skill-comunicare-l",
+      "title": "Soft-skills pentru arhitectul software — exerciții practice per skill (Comunicare, Liderșip, Negociere, Colaborare, Mentorat, Influență, Auto-dezvoltare)",
+      "tags": [
+        "org",
+        "book-summary",
+        "soft-skills",
+        "software-architecture",
+        "exercises",
+        "practice",
+        "leadership",
+        "communication",
+        "negotiation",
+        "romanian",
+        "architect-in-charge"
+      ],
+      "author": "adrianb",
+      "updated": "2026-07-29T21:59:30.984Z",
+      "created": "2026-07-29T21:59:30.984Z",
+      "importanceScore": 0.7,
+      "contentPreview": "## Executive Summary\n\nVarianta **cu exerciții practice** a compendiului de soft-skills pentru arhitecți: aceleași skill-uri sintetizate din 6 cărți, dar fiecare skill are 2 exerciții concrete, acționabile (de aplicat la job). DE CE contează: transformă principiile teoretice în drill-uri repetabile pentru dezvoltarea deliberată a competențelor de comunicare/leadership/negociere. Sursă: `/home/adrianb/_/CartiSiEbook/IT/architecture/soft-skills-arhitect-cu-exercitii.org`. Descrierea completă a fiec"
     }
   }
 }
