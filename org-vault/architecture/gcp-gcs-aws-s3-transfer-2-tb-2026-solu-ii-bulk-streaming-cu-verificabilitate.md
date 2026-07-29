@@ -8,6 +8,10 @@ updated: '2026-07-29T07:59:11.661Z'
 importanceScore: 0.9
 ---
 
+## Used Prompt
+
+Esti un arhitect IT; ai de rezolvat urmatoarea problema: 1. data de 2 TB in GCP pe bucket 2. trimitere in streaming sau alta solutie catre S3 AWS 3. verificabilitatea transferului datelor este esentiala 4. simplitatea este esentiala 5. pentru streaming considera si solutii de streaming precum a. Flink, b. Flink plus https://nightlies.apache.org/flink/flink-docs-release-2.3/docs/connectors/datastream/kinesis/ , c. https://nightlies.apache.org/flink/flink-docs-release-2.3/docs/connectors/datastream/pubsub/, d. https://aws.amazon.com/kinesis/data-streams/ ;6.  citeste pe net pentru solutii la zi si constrangeri la zi ; 7. propune solutii cu plusuri si minusuri la fiecare ; 8. scrie informatiile gasite intr-o memorie org
+
 ## Executive Summary
 
 # GCP GCS → AWS S3 transfer 2 TB (2026): soluții bulk + streaming cu verificabilitate
