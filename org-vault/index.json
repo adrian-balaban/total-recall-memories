@@ -1356,6 +1356,21 @@
       "created": "2026-07-29T20:23:37.910Z",
       "importanceScore": 0.7,
       "contentPreview": "## Executive Summary\n\nSynthesis of **Thoughtworks Technology Radar Vol. 34 (2026)**, restricted to items in the **Adopt** and **Trial** rings across all four quadrants (Techniques, Platforms, Tools, Languages & Frameworks). WHY it matters: Vol 34 is dominated by the shift of AI-agent engineering from experimentation to disciplined practice — context engineering, feedback loops, sandboxing, mutation testing, and evaluation are now table-stakes rather than novelties. This is the reference set used"
+    },
+    "architecture/fake-architecture-test-memory-delete-me-v114-verify": {
+      "key": "architecture/fake-architecture-test-memory-delete-me-v114-verify",
+      "title": "Fake architecture test memory delete me v114 verify",
+      "tags": [
+        "org",
+        "test",
+        "delete-me",
+        "v114-verify"
+      ],
+      "author": "adrianb",
+      "updated": "2026-07-29T20:50:50.104Z",
+      "created": "2026-07-29T20:50:50.104Z",
+      "importanceScore": 0.3,
+      "contentPreview": "## Executive Summary\n\nSynthetic test memory to verify the org-sync PostToolUse hook pushes a tagged `org` memory to the shared `org-vault` branch on plugin v1.1.4. WHY: confirms store_memory → hook → git commit+push pipeline is live end-to-end. Safe to delete."
     }
   }
 }
