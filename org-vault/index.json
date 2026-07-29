@@ -1356,18 +1356,6 @@
       "created": "2026-07-29T20:23:37.910Z",
       "importanceScore": 0.7,
       "contentPreview": "## Executive Summary\n\nSynthesis of **Thoughtworks Technology Radar Vol. 34 (2026)**, restricted to items in the **Adopt** and **Trial** rings across all four quadrants (Techniques, Platforms, Tools, Languages & Frameworks). WHY it matters: Vol 34 is dominated by the shift of AI-agent engineering from experimentation to disciplined practice — context engineering, feedback loops, sandboxing, mutation testing, and evaluation are now table-stakes rather than novelties. This is the reference set used"
-    },
-    "architecture/fake-architecture-test-memory-delete-me-v115-verify": {
-      "key": "architecture/fake-architecture-test-memory-delete-me-v115-verify",
-      "title": "fake-architecture-test-memory-delete-me-v115-verify",
-      "tags": [
-        "org"
-      ],
-      "author": "adrianb",
-      "updated": "2026-07-29T21:10:46.887Z",
-      "created": "2026-07-29T21:10:46.887Z",
-      "importanceScore": 0.1,
-      "contentPreview": "## Executive Summary\nThird end-to-end verification memory for the v1.1.5 org-sync PostToolUse hook fix (raw content array parser). Written to confirm the hook now fires on the production Claude Code PostToolUse payload shape and auto-commits + pushes. DELETE ME after verification."
     }
   }
 }
