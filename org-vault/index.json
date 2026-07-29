@@ -1335,6 +1335,21 @@
       "created": "2026-07-29T15:18:23.740Z",
       "importanceScore": 0.5,
       "contentPreview": "## Executive Summary\n\n## Executive summary\n\nTechniques an IT architect uses to simplify an architecture diagram by abstracting its elements. The core idea: simplification is about choosing the right **altitude** and **grouping principle**, not drawing fewer boxes. Ordered by leverage.\n\n**Why:** A crowded diagram usually mixes zoom levels and crams multiple viewpoints into one frame. The load-bearing decisions get buried in undifferentiated detail.\n\n**How to apply:** Run the practical test on eve"
+    },
+    "architecture/fake-architecture-org-sync-hook-live-test-v114-verify-delete-me": {
+      "key": "architecture/fake-architecture-org-sync-hook-live-test-v114-verify-delete-me",
+      "title": "Fake architecture org-sync hook live test v114 verify delete me",
+      "tags": [
+        "org",
+        "fake",
+        "test",
+        "delete-me"
+      ],
+      "author": "adrianb",
+      "updated": "2026-07-29T20:36:45.471Z",
+      "created": "2026-07-29T20:36:45.471Z",
+      "importanceScore": 0.1,
+      "contentPreview": "## Executive Summary\n\nDisposable fake org memory for the v1.1.4 live hook test — verify the PostToolUse org-sync hook fires on a correctly-routed `store_memory` (no explicit key, `org` tag, `category:architecture`) and auto-pushes to `origin/knowledge`. No real content — safe to delete.\n\n**Why:** end-to-end confirmation that the matcher fix (v1.1.3) + the redundant-`git add` allowFail fix (v1.1.4) both work live with 1.1.4 installed.\n\n**How to apply:** delete this memory after confirming it land"
     }
   }
 }
