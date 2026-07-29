@@ -1317,6 +1317,24 @@
       "created": "2026-07-15T07:49:17.023Z",
       "importanceScore": 0.7,
       "contentPreview": "## Executive Summary\n\n## Summary\nO'Reilly video tutorial on effective technical presentations from the Software Architecture Fundamentals: Soft Skills course by Mark Richards and Neal Ford.\n\n## URL\nhttps://learning.oreilly.com/videos/software-architecture-fundamentals/9781491924860/9781491924860-video210872/\n\n## Context\nPart of the Software Architecture Fundamentals: Soft Skills video series (3 hours 26 minutes total, published March 2015). Covers how to create and deliver effective technical pr"
+    },
+    "knowledge/how-to-abstract-elements-in-an-architecture-diagram-to-simplify-it": {
+      "key": "knowledge/how-to-abstract-elements-in-an-architecture-diagram-to-simplify-it",
+      "title": "How to abstract elements in an architecture diagram to simplify it",
+      "tags": [
+        "org",
+        "architecture",
+        "diagrams",
+        "c4-model",
+        "ddd",
+        "abstraction",
+        "it-architect"
+      ],
+      "author": "adrianb",
+      "updated": "2026-07-29T15:18:23.740Z",
+      "created": "2026-07-29T15:18:23.740Z",
+      "importanceScore": 0.5,
+      "contentPreview": "## Executive Summary\n\n## Executive summary\n\nTechniques an IT architect uses to simplify an architecture diagram by abstracting its elements. The core idea: simplification is about choosing the right **altitude** and **grouping principle**, not drawing fewer boxes. Ordered by leverage.\n\n**Why:** A crowded diagram usually mixes zoom levels and crams multiple viewpoints into one frame. The load-bearing decisions get buried in undifferentiated detail.\n\n**How to apply:** Run the practical test on eve"
     }
   }
 }
