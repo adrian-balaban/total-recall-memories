@@ -1400,21 +1400,6 @@
       "created": "2026-07-29T21:59:30.984Z",
       "importanceScore": 0.7,
       "contentPreview": "## Executive Summary\n\nVarianta **cu exerciții practice** a compendiului de soft-skills pentru arhitecți: aceleași skill-uri sintetizate din 6 cărți, dar fiecare skill are 2 exerciții concrete, acționabile (de aplicat la job). DE CE contează: transformă principiile teoretice în drill-uri repetabile pentru dezvoltarea deliberată a competențelor de comunicare/leadership/negociere. Sursă: `/home/adrianb/_/CartiSiEbook/IT/architecture/soft-skills-arhitect-cu-exercitii.org`. Descrierea completă a fiec"
-    },
-    "architecture/fake-org-memory-hexagonal-architecture-modules-isolate-domain": {
-      "key": "architecture/fake-org-memory-hexagonal-architecture-modules-isolate-domain",
-      "title": "Fake org memory: hexagonal architecture modules isolate domain",
-      "tags": [
-        "org",
-        "architecture",
-        "fake-test",
-        "hexagonal-architecture"
-      ],
-      "author": "adrianb",
-      "updated": "2026-07-30T10:46:41.007Z",
-      "created": "2026-07-30T10:46:41.007Z",
-      "importanceScore": 0.5,
-      "contentPreview": "## Executive Summary\n\n## Executive summary\n\nFAKE TEST MEMORY — created to verify the org-sync PostToolUse hook fires on store_memory and pushes org memories to the org vault git remote.\n\n**Claim (illustrative only, not a real decision):** Hexagonal architecture (ports-and-adapters) keeps the domain core isolated from infrastructure by defining inbound/outbound ports; adapters implement those ports so swapping PostgreSQL for a REST mock touches only the adapter, not the domain. This is a standard"
     }
   }
 }
