@@ -1400,6 +1400,19 @@
       "created": "2026-07-29T21:59:30.984Z",
       "importanceScore": 0.7,
       "contentPreview": "## Executive Summary\n\nVarianta **cu exerciții practice** a compendiului de soft-skills pentru arhitecți: aceleași skill-uri sintetizate din 6 cărți, dar fiecare skill are 2 exerciții concrete, acționabile (de aplicat la job). DE CE contează: transformă principiile teoretice în drill-uri repetabile pentru dezvoltarea deliberată a competențelor de comunicare/leadership/negociere. Sursă: `/home/adrianb/_/CartiSiEbook/IT/architecture/soft-skills-arhitect-cu-exercitii.org`. Descrierea completă a fiec"
+    },
+    "architecture/bla-bla": {
+      "key": "architecture/bla-bla",
+      "title": "Bla Bla",
+      "tags": [
+        "org",
+        "placeholder"
+      ],
+      "author": "adrianb",
+      "updated": "2026-10-28T20:17:23.025Z",
+      "created": "2026-10-28T20:17:23.025Z",
+      "importanceScore": 0.1,
+      "contentPreview": "## Executive Summary\n\nBla bla content only — placeholder architecture memory with no real design content.\n\n## Details\n\nBla bla bla."
     }
   }
 }
