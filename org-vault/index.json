@@ -1400,19 +1400,6 @@
       "created": "2026-07-29T21:59:30.984Z",
       "importanceScore": 0.7,
       "contentPreview": "## Executive Summary\n\nVarianta **cu exerciții practice** a compendiului de soft-skills pentru arhitecți: aceleași skill-uri sintetizate din 6 cărți, dar fiecare skill are 2 exerciții concrete, acționabile (de aplicat la job). DE CE contează: transformă principiile teoretice în drill-uri repetabile pentru dezvoltarea deliberată a competențelor de comunicare/leadership/negociere. Sursă: `/home/adrianb/_/CartiSiEbook/IT/architecture/soft-skills-arhitect-cu-exercitii.org`. Descrierea completă a fiec"
-    },
-    "knowledge/smoke-test-org-sync-check": {
-      "key": "knowledge/smoke-test-org-sync-check",
-      "title": "smoke-test-org-sync-check",
-      "tags": [
-        "org",
-        "smoke-test"
-      ],
-      "author": "adrianb",
-      "updated": "2026-10-30T15:27:00.810Z",
-      "created": "2026-10-30T15:27:00.810Z",
-      "importanceScore": 0.5,
-      "contentPreview": "## Executive Summary\n\nThrowaway org memory to verify sync pipeline for 1.6.0 smoke test on 2026-10-30."
     }
   }
 }
