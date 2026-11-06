@@ -1400,20 +1400,6 @@
       "created": "2026-07-29T21:59:30.984Z",
       "importanceScore": 0.7,
       "contentPreview": "## Executive Summary\n\nVarianta **cu exerciții practice** a compendiului de soft-skills pentru arhitecți: aceleași skill-uri sintetizate din 6 cărți, dar fiecare skill are 2 exerciții concrete, acționabile (de aplicat la job). DE CE contează: transformă principiile teoretice în drill-uri repetabile pentru dezvoltarea deliberată a competențelor de comunicare/leadership/negociere. Sursă: `/home/adrianb/_/CartiSiEbook/IT/architecture/soft-skills-arhitect-cu-exercitii.org`. Descrierea completă a fiec"
-    },
-    "knowledge/smoke-test-org-sync-20261106b": {
-      "key": "knowledge/smoke-test-org-sync-20261106b",
-      "title": "smoke test org sync 20261106b",
-      "tags": [
-        "org",
-        "smoke-test",
-        "throwaway"
-      ],
-      "author": "adrianb",
-      "updated": "2026-11-06T01:45:34.086Z",
-      "created": "2026-11-06T01:45:34.086Z",
-      "importanceScore": 0.3,
-      "contentPreview": "## Executive Summary\n\nThrowaway org-vault memory for the 1.7.1 post-release smoke test. Verifies the org push path and PostToolUse/server sync. Delete after the run.\n\n## Detail\n\nNo sensitive content."
     }
   }
 }
